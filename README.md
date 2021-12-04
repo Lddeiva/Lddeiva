@@ -8,3 +8,5 @@
 > If you're interested in that sort of history there's LinkedIn: https://www.linkedin.com/in/deiva/
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=lddeiva)
+
+![mymannaruto](https://user-images.githubusercontent.com/61077834/144708568-31191df4-c2b3-4256-9734-d52ba1d65731.gif)
