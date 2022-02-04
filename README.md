@@ -11,6 +11,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lddeiva)](https://github.com/lddeiva/github-readme-stats)
 
+🌱 **Profile Views** <br />
+![visitors](https://profile-counter.glitch.me/lddeiva/count.svg?align=center)
+
 ![mymannaruto](https://user-images.githubusercontent.com/61077834/144708568-31191df4-c2b3-4256-9734-d52ba1d65731.gif)
 
 
