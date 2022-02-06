@@ -2,8 +2,9 @@
 
 - :ninja: I’m Deivasigamani Duraisamy.
 
-- 🔭 Currently working on the Microsoft Azure Cloud and Azure DevOps, helping customers to get the most out of the cloud. I practice a lot of automation (Azure CLI, Azure Pipelines, Codespaces, GitHub Actions, PowerShell, Terraform).
-- 🌱 I’m currently learning programming.
+- 🔭 Currently working on the Microsoft Azure Cloud and Azure DevOps, helping customers to get the most out of the cloud. I practice a lot of automation (Rest API's, Azure CLI, Azure Pipelines, Codespaces, GitHub Actions, PowerShell, Terraform).
+
+- 🌱 “Before software can be reusable it first has to be usable.” – Ralph Johnson
 
 > If you're interested in that sort of history there's LinkedIn: https://www.linkedin.com/in/deiva/
 
