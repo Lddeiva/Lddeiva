@@ -8,6 +8,7 @@ In the path of a shinobi, and the journey of a demon slayer, we find strength in
 
 ## What did I do recently?
 
+### Cloud Infrastructure
 - Designed and implemented robust and highly available IaaS/PaaS services in Azure for both 
 greenfield and brownfield environments.
 - Developed comprehensive high-level and low-level design documentation, including architectural 
@@ -16,9 +17,13 @@ frameworks.
 customers to facilitate smooth migration of their applications from Windows and Linux systems to 
 the designated Azure infrastructure.
 - Formulated and executed cost optimization strategies for Azure services.
+
+### Infrastructure as code
 - Created Infrastructure as Code (IaC) using Terraform and Bicep for multiple projects, assuming the 
 role of a maintainer for Terraform module repositories. Made valuable contributions to the 
 Terraform open-source community.
+
+### DevOps
 - Developed and implemented CI/CD pipelines on Azure DevOps, GitHub, and GitLab.
 - Identified and addressed implementation, security, and operational risks during migration and IaC 
 deployments, ensuring effective mitigation measures were put in place.
@@ -27,24 +32,32 @@ deployments, ensuring effective mitigation measures were put in place.
 - Implemented effective branching and release strategies to enhance code development and 
 integration processes.
 - Established build system infrastructures to support diverse functional and security requirements.
+- Established Azure DevOps organizations from inception, adhering to recommended practices.
+
+### Kubernetes
 - Authored Docker and Kubernetes manifest files for seamless deployment of microservices on Azure 
 Kubernetes Service.
 - Executed container compute optimization strategies for efficient operation of containers on Azure 
 Kubernetes Service.
+
+### Scripting
 - Developed scripts for consuming REST APIs, enabling interaction with services that lack native or 
 third-party management tools.
 - Implemented automated security checks, optimized image building processes, and enhanced 
 container boot-up times.
-- Established Azure DevOps organizations from inception, adhering to recommended practices.
+- Developed PowerShell scripts from scratch and modified existing Shell scripts to automate 
+application installations and configurations.
+
+### Contributions
 - Conducted technical sessions on Terraform for workgroup and internal IaC community members.
 - Actively served as a subject matter expert (SME), providing assistance to colleagues in the Azure, 
 Terraform, and DevOps communities.
-- Developed PowerShell scripts from scratch and modified existing Shell scripts to automate 
-application installations and configurations.
-- Designed and implemented Azure SQL solutions using Azure SQL Database and Azure SQL Managed 
-Instances. Successfully migrated on-premises SQL databases to Azure.
 - Collaborated with product groups to ensure alignment of design strategies with upcoming feature 
 releases
+
+### Databases
+- Designed and implemented Azure SQL solutions using Azure SQL Database and Azure SQL Managed 
+Instances. Successfully migrated on-premises SQL databases to Azure.
 
 ## What did I do earlier?
 
