@@ -69,6 +69,48 @@ In the path of a shinobi, and the journey of a demon slayer, we find strength in
 - Microsoft Certified: Azure Database Administrator Associate
 - Microsoft Certified: Azure Administrator Associate
 
+## Skill Overview
+
+```mermaid
+graph LR;
+
+AKS((Azure \n Kubernetes \n Service)):::mystyle --> containers((containers));
+ACI((Azure \n Container \n Instances)):::mystyle --> containers;
+Docker((Docker)):::mystyle --> containers;
+ACR((Azure \n Container \n Registry)):::mystyle --> containers;
+DR((Docker \n Registry)):::mystyle --> containers;
+
+IaC((IaC)) --> Terraform((Terraform)):::mystyle;
+IaC --> Bicep((Bicep)):::mystyle;
+
+DevOps((DevOps)) --> ADO((Azure \n DevOps)):::mystyle;
+DevOps --> GH((GitHub \n Actions)):::mystyle;
+DevOps --> GL((GitLab)):::mystyle;
+
+
+PW((PowerShell)):::mystyle --> Scripting((Scripting));
+BA((Bash)):::mystyle --> Scripting;
+
+Databases((Databases)) --> AzSQL((Azure \n SQL)):::mystyle;
+
+Deiva(((Skills))) --> DevOps;
+Deiva --> IaC;
+Scripting --> Deiva;
+Deiva --> Databases;
+containers --> Deiva;
+
+Infra((Cloud \n Infrastructure)):::mystyle --> Deiva;
+
+style Deiva fill:#fc03f0,stroke:#333,stroke-width:4px
+style containers fill:#03f4fc,stroke:#333,stroke-width:4px
+style Databases fill:#03f4fc,stroke:#333,stroke-width:4px
+style Scripting fill:#03f4fc,stroke:#333,stroke-width:4px
+style IaC fill:#03f4fc,stroke:#333,stroke-width:4px
+style DevOps fill:#03f4fc,stroke:#333,stroke-width:4px
+
+classDef mystyle fill:#03f4fc,stroke:#333,stroke-width:4px
+```
+
 ## Love for anime never ends
 
 ![mymannaruto](https://user-images.githubusercontent.com/61077834/144708568-31191df4-c2b3-4256-9734-d52ba1d65731.gif)
