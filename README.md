@@ -16,10 +16,11 @@ In the path of a shinobi, and the journey of a demon slayer, we find strength in
 - Collaborated with product groups to ensure alignment of design strategies with upcoming feature releases.
 
 ### Infrastructure as code
+- Designed and implemented a modular structure for customers, accommodating both shared and dedicated teams.
 - Created Infrastructure as Code (IaC) using Terraform and Bicep for multiple projects, assuming the role of a maintainer for Terraform module repositories.
 
 ### DevOps
-- Developed and implemented CI/CD pipelines on Azure DevOps, GitHub, and GitLab.
+- Designed and implemented CI/CD flow (repos, pipelines, agent/runner infrastructure, release management) on Azure DevOps.
 - Identified and addressed implementation, security, and operational risks during migration and IaC deployments, ensuring effective mitigation measures were put in place.
 - Assisted team members and partners in resolving code and deployment issues.
 - Developed custom Pester test cases to validate environments.
@@ -28,9 +29,10 @@ In the path of a shinobi, and the journey of a demon slayer, we find strength in
 - Established Azure DevOps organizations from inception, adhering to recommended practices.
 
 ### Kubernetes
+- Designed and implemented highly available and secure private clusters with automated scaling for microservices on Azure Kubernetes Service.
 - Authored Docker and Kubernetes manifest files for seamless deployment of microservices on Azure Kubernetes Service.
 - Managed Kubernetes clusters and enhanced application security through the implementation of multiple security controls.
-- Executed container compute optimization strategies for efficient operation of containers on Azure Kubernetes Service.
+- Executed container and cluster compute optimization strategies for efficient operation of containers on Azure Kubernetes Service.
 - Implemented managed Prometheus and Grafana services, leveraging their powerful capabilities to enhance monitoring, visualization, and alerting functionalities, ensuring optimal system performance and data-driven decision-making.
 
 ### Scripting
@@ -100,6 +102,11 @@ Deiva --> Databases;
 containers --> Deiva;
 
 Infra((Cloud \n Infrastructure)):::mystyle --> Deiva;
+Design((Design)):::mystyle --> Infra;
+Implementation((Implementation)):::mystyle --> Infra;
+Migration((Migration)):::mystyle --> Infra;
+Optimization((Optimization)):::mystyle --> Infra;
+
 
 style Deiva fill:#fc03f0,stroke:#333,stroke-width:4px
 style containers fill:#03f4fc,stroke:#333,stroke-width:4px
