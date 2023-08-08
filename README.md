@@ -70,6 +70,7 @@ In the path of a shinobi, and the journey of a demon slayer, we find strength in
 - Microsoft Certified: Azure Network Engineer Associate
 - Microsoft Certified: Azure Database Administrator Associate
 - Microsoft Certified: Azure Administrator Associate
+- Microsoft Certified: Azure Security Engineer Associate
 
 ## Skill Overview
 
