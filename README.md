@@ -64,6 +64,7 @@ In the path of a shinobi, and the journey of a demon slayer, we find strength in
 
 ## Certifications
 
+- Microsoft Certified: Azure Solutions Architect Expert
 - HashiCorp Certified: Terraform Associate
 - Microsoft Certified: DevOps Engineer Expert
 - GitHub Actions
